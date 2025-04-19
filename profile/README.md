@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gastrosmile/.github/profile/banner.png" alt="GastroSmile Banner" />
+  <img src="https://github.com/gastrosmile/.github/blob/main/profile/banner.png?raw=true" alt="GastroSmile Banner" />
 </p>
 
 ## Contact
